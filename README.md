@@ -1,3 +1,3 @@
-## Hello im Dean 👋
+# Hello im Dean 👋
 
-##About me
+### About me
