@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!, I'm Dean a Computer Science student at Holy Angel University and Aspiring Software Developer.
+Hi! I'm Dean, a Computer Science student at Holy Angel University and an Aspiring Software Developer.
 
 
 ## 🌐 Socials:
