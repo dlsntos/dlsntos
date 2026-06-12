@@ -1,8 +1,19 @@
 # 💫 About Me:
-Hi! I'm Dean, a Computer Science fresh graduate and an Aspiring Software Developer.
+Hi! I'm Dean, a Passionate Computer Science fresh graduate and an Aspiring Software Developer with hands-on experience in Full Stack Developement.
 
-## 🌐 Socials
+# 🛠️ Skills
+- ** Programming Languages: ** HTML5, CSS3, Javascript, Typescript, Java, C#, Python
+- ** Frameworks & Libraries: ** React, TailwindCSS, ASP.Net Core, React Router
+- ** Databases & Cloud: ** MySQL, PostgreSQL, AWS (EC2, S3)
+- ** Tools & AI : ** ChatGPT, Claude Code, Gemini, VS Code, Visual Studio, IntelliJ, Git, Github
 
-[![Gmail Icon](https://cdn-icons-png.flaticon.com/128/5968/5968534.png)](mailto:deanlt.santos@gmail.com)
-&nbsp;
-[![Linkedin Icon](https://cdn-icons-png.flaticon.com/128/3536/3536505.png)](https://www.linkedin.com/in/dean-louis-santos-3892842a5/)
+## Currently Learning
+- Springboot Framework (Java)
+- MongoDB
+- AWS (Other services)
+
+# 🎯 Target Goals
+- Deploy a full stack app in the cloud 
+- Improve Soft skills
+- Learn DevOps practices
+- Improve Technical Writing & Documentation
