@@ -19,3 +19,4 @@ Hi! I'm Dean, a Passionate Computer Science fresh graduate and an Aspiring Softw
 - Learn DevOps
 - Improve Technical Writing & Documentation
 - Learn a new programming language or tech stack
+- Learn Machine Learning and apply it to projects
