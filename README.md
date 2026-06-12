@@ -8,7 +8,7 @@ Hi! I'm Dean, a Passionate Computer Science fresh graduate and an Aspiring Softw
 - **Databases & Cloud:** MySQL, PostgreSQL, AWS (EC2, S3)
 - **Tools & AI :** ChatGPT, Claude Code, Gemini, VS Code, Visual Studio, IntelliJ, Git, Github
 
-## Currently Learning
+## 🧠 Currently Learning
 - Springboot Framework (Java)
 - MongoDB
 - AWS (Other services)
