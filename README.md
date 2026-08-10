@@ -6,7 +6,7 @@ Hi! I'm Dean, a Passionate Computer Science fresh graduate and an Aspiring Softw
 - **Programming Languages:** Java, Javascript, Typescript, C#, Python, HTML5, CSS3
 - **Frameworks & Libraries:** Spring boot, React, TailwindCSS, ASP.Net Core, React Router
 - **Databases & Cloud:** MySQL, PostgreSQL, AWS (EC2, S3)
-- **Testing**: Manual testing, Exploratory testing, Test Case Design, Bug Reporting, STLC, API Testing(Postman), Chrome developer tools
+- **Testing**: Manual testing, Exploratory testing, Regression Testing, Test Case Design, Bug Reporting, STLC, API Testing(Postman), Chrome developer tools
 - **Tools & AI :** ChatGPT, Claude Code, Gemini, VS Code, Visual Studio, IntelliJ, Git, Github
 
 ## 🧠 Currently Learning
